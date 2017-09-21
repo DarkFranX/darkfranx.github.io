@@ -1,7 +1,7 @@
 ---
 layout: project
-title: Organization creation
-description: "Description of Project #1"
+title: Projets
+description: "Divers projets entrepris par le regroupement"
 header-img: "img/lightbulb.jpg"
 category: project1
 published: true
