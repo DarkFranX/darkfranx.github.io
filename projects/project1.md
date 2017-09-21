@@ -2,7 +2,7 @@
 layout: project
 title: Organization creation
 description: "Description of Project #1"
-"header-img": "img/home-bg.jpg"
+header-img: "img/lightbulb.jpg"
 category: project1
 published: true
 ---
@@ -16,6 +16,3 @@ procedure random (param: in out Integer) is
 	Put_Line("Hey ya!");
 end random;
 ```
-
-
-

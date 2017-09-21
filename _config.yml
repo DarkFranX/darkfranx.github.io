@@ -1,6 +1,6 @@
 # Site settings
 title: VE2ETS
-description: "A Jekyll website for hackerzzzzz"
+description: "Regroupement radio amateur de l'ÉTS"
 url: "https://darkfranx.github.io"
 
 
@@ -8,9 +8,9 @@ url: "https://darkfranx.github.io"
 
 # Secondary Parameters
 baseurl: ""
-header-img: img/home-bg.jpg
+header-img: img/lightbulb.jpg
 headercolor: "#FFFFFF"
-logo: /img/logos/Project-Pages-New-Logo-Inverted.png
+logo: /img/logo_VE2ETS.png
 
 # Tertiary Parameters
 github_username:  projectpages
@@ -36,7 +36,7 @@ defaults:
       type: "pages"
     values:
       layout: "project"
-      header-img: "img/home-bg.jpg"
+      header-img: "img/lightbulb.jpg"
 
 # Prose Settings
 prose:
